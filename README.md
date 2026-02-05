@@ -1,5 +1,6 @@
 <!-- Banner Space - Add your banner image here -->
-<!-- To add banner: Upload image to your repo, then add: <img src="your-banner-image.png" alt="Banner" width="100%"/> -->
+<!-- To add banner: Upload image to your repo, then add: <img src="https://github.com/Arin0005/Arin0005/blob/main/Screenshot%202026-02-06%20020130.png" alt="Banner" width="100%"/> -->
+ 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Arin0005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
