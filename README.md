@@ -1,37 +1,214 @@
-<h1 align="center">Hi 👋, I'm Arin Thamke</h1>
-<h3 align="center">A passionate and enthusiastic AI/ML engineering student with a deep passion for exploring data analytics and data science.</h3>
+<!-- Banner Space - Add your banner image here -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arin0005&label=Profile%20views&color=0e75b6&style=flat" alt="arin0005" /> </p>
+<div align="center">
+  
+### 👋 Welcome! Thanks for stopping by.
 
-- 🔭 I’m currently working on **building an AI based Desktop Assistant**
+</div>
 
-- 🌱 I’m currently learning **Data Analysis and Visualization.**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arin0005](https://github.com/Arin0005)
+## Hi, I'm Arin Thamke
 
-- 💬 Ask me about **Python,Javascript and Robotics.**
+**AI/ML Engineering Student** | Building intelligent systems and exploring the intersection of data, backend engineering, and practical AI applications.
 
-- 📫 How to reach me **arinthamke@gmail.com**
+I'm a final-year engineering student at Mumbai University, focused on developing scalable backend solutions, data-driven applications, and machine learning systems. I believe in writing clean, maintainable code and solving real problems with thoughtful engineering.
 
-- ⚡ Fun fact **I love trekking, exploring forts, and diving into the beauty of nature whenever I get the chance!**
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arinthamke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arinthamke" height="30" width="40" /></a>
-<a href="https://instagram.com/_ft.arxn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ft.arxn_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arinthamke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arinthamke" height="30" width="40" /></a>
+### 🔭 Currently Working On
+- Building data analysis pipelines with Python
+- Developing backend systems with Django and REST APIs
+- Exploring frontend development with React.js
+- Implementing ML models for real-world applications
+
+### 🌱 Currently Learning
+- Advanced data analysis and visualization techniques
+- Backend architecture patterns and best practices
+- JavaScript backend fundamentals
+- Effective database design and optimization
+
+### 💡 Technical Interests
+- Data analysis and building analytics pipelines
+- Backend development (Python & JavaScript)
+- Machine learning applications
+- Full-stack development with React
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33.33%" valign="top">
+
+<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
+<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Programming Languages</h3>
+<div align="center" style="margin: 15px 0;">
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c&theme=light&perline=5" width="220" />
+</div>
+<div style="background: #4f46e5; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
+Core Languages
+</div>
+</div>
+
+</td>
+<td align="center" width="33.33%" valign="top">
+
+<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
+<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Frontend Development</h3>
+<div align="center" style="margin: 15px 0;">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=light&perline=4" width="180" />
+</div>
+<div style="background: #ec4899; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
+UI/UX Stack
+</div>
+</div>
+
+</td>
+<td align="center" width="33.33%" valign="top">
+
+<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
+<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Backend Development</h3>
+<div align="center" style="margin: 15px 0; background: white; padding: 15px; border-radius: 12px;">
+<img src="https://skillicons.dev/icons?i=django,nodejs,firebase&theme=light&perline=4" width="150" />
+<img height="40" width="40" style="margin: 0 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" />
+</div>
+<div style="background: #10b981; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
+Server & APIs
+</div>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33.33%" valign="top">
+
+<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
+<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Data & Analytics</h3>
+<div align="center" style="margin: 15px 0; background: white; padding: 15px; border-radius: 12px;">
+<img src="https://skillicons.dev/icons?i=python" width="40" />
+<img height="40" width="40" style="margin: 0 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img height="40" width="40" style="margin: 0 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img height="40" width="40" style="margin: 0 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+</div>
+<div style="background: #f59e0b; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
+Data Science
+</div>
+</div>
+
+</td>
+<td align="center" width="33.33%" valign="top">
+
+<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
+<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Machine Learning & AI</h3>
+<div align="center" style="margin: 15px 0; background: white; padding: 15px; border-radius: 12px;">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" width="90" />
+<img height="40" width="40" style="margin: 0 8px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img height="40" width="40" style="margin: 0 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+</div>
+<div style="background: #8b5cf6; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
+AI/ML Tools
+</div>
+</div>
+
+</td>
+<td align="center" width="33.33%" valign="top">
+
+<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
+<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Databases</h3>
+<div align="center" style="margin: 15px 0;">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite&theme=light&perline=3" width="140" />
+</div>
+<div style="background: #3b82f6; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
+Data Storage
+</div>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">
+
+<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease; max-width: 400px; display: inline-block;">
+<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Tools & Version Control</h3>
+<div align="center" style="margin: 15px 0;">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light&perline=3" width="140" />
+</div>
+<div style="background: #6366f1; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
+Development Tools
+</div>
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place** - Algorithm Development @ Hack-It-Out, Thakur College
+- 🥈 **2nd Place** - Hack the Metrics (ML Competition) @ TechJam 3.0
+- 🥉 **3rd Place** - Clash of Codes (DSA) @ TechJam 3.0
+- ⭐ **Top 14** - API Development @ HackX 3.0, NMIMS
+
+---
+
+## 📊 GitHub Statistics
+<div align="center">
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arin0005&theme=tokyonight" alt="Profile Details" />
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&fontFamily=&preferLogin=false">    <img width="35%" alt="Arin0005's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Arin0005?cardType=github&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
+</div>
+
+<div align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arin0005&theme=tokyonight" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arin0005&theme=tokyonight" />
+ 
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arin0005&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🤝 What I'm Looking For
+
+- 💼 Internship opportunities in backend development and data engineering
+- 🤝 Open-source collaboration on ML/AI applications
+- 📚 Learning from experienced engineers
+- 🚀 Entry-level roles in Python backend, data analysis, or full-stack development
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+<a href="mailto:arinthamke@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/arinthamke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Arin0005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.hackerrank.com/arinthamke"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arin0005&show_icons=true&theme=radical) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arin0005&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                       
-
-
-[![Arin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arin0005&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Arin0005&label=Profile%20Views&color=0e75b6&style=flat)
+  
+  *"Clean code, practical solutions, continuous learning."*
+  
+</div>
