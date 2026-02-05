@@ -1,36 +1,42 @@
 <!-- Banner Space - Add your banner image here -->
+<!-- To add banner: Upload image to your repo, then add: <img src="your-banner-image.png" alt="Banner" width="100%"/> -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Arin0005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <div align="center">
   
-### 👋 Welcome! Thanks for stopping by.
+### 👋 Hey there! Thanks for stopping by.
 
 </div>
 
 ---
 
-## Hi, I'm Arin Thamke
+## 🚀 Hi, I'm Arin Thamke
 
-**AI/ML Engineering Student** | Building intelligent systems and exploring the intersection of data, backend engineering, and practical AI applications.
+**AI/ML Engineering Student** passionate about building intelligent systems, scalable backends, and data-driven solutions.
 
-I'm a final-year engineering student at Mumbai University, focused on developing scalable backend solutions, data-driven applications, and machine learning systems. I believe in writing clean, maintainable code and solving real problems with thoughtful engineering.
+🎓 Final-year student at **Mumbai University** specializing in **Artificial Intelligence & Machine Learning**
 
+💡 I love turning ideas into code — whether it's crafting clean backends, analyzing data, or building ML models that solve real problems.
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🔭 Currently Working On
-- Building data analysis pipelines with Python
-- Developing backend systems with Django and REST APIs
-- Exploring frontend development with React.js
-- Implementing ML models for real-world applications
+### 🔭 What I'm Working On
+- 📊 Building data analysis pipelines with Python
+- ⚙️ Developing backend systems with Django & REST APIs
+- 🎨 Exploring frontend magic with React.js
+- 🤖 Implementing ML models for real-world impact
 
 ### 🌱 Currently Learning
-- Advanced data analysis and visualization techniques
-- Backend architecture patterns and best practices
-- JavaScript backend fundamentals
-- Effective database design and optimization
+- 📈 Advanced data analysis & visualization
+- 🏗️ Backend architecture & design patterns
+- 🌐 JavaScript backend fundamentals
+- 💾 Database optimization & design
 
-### 💡 Technical Interests
-- Data analysis and building analytics pipelines
-- Backend development (Python & JavaScript)
+### 💻 What Excites Me
+- Data analysis & building analytics pipelines
+- Backend engineering (Python & JavaScript)
 - Machine learning applications
 - Full-stack development with React
 
@@ -39,121 +45,50 @@ I'm a final-year engineering student at Mumbai University, focused on developing
 ## 🛠️ Technical Skills
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center" width="33.33%" valign="top">
+<td valign="left" width="80%">
 
-<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
-<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Programming Languages</h3>
-<div align="center" style="margin: 15px 0;">
-<img src="https://skillicons.dev/icons?i=python,javascript,java,c&theme=light&perline=5" width="220" />
-</div>
-<div style="background: #4f46e5; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
-Core Languages
-</div>
-</div>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c" height="40"/>
 
-</td>
-<td align="center" width="33.33%" valign="top">
+### Frontend Development  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="40"/>
 
-<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
-<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Frontend Development</h3>
-<div align="center" style="margin: 15px 0;">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=light&perline=4" width="180" />
-</div>
-<div style="background: #ec4899; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
-UI/UX Stack
-</div>
-</div>
+### Backend Development
+<img src="https://skillicons.dev/icons?i=django,nodejs,flask" height="40"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="margin: 0 5px"/>
 
-</td>
-<td align="center" width="33.33%" valign="top">
+### Data & Analytics
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="margin: 0 5px"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="margin: 0 5px"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="margin: 0 5px"/>
 
-<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
-<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Backend Development</h3>
-<div align="center" style="margin: 15px 0; background: white; padding: 15px; border-radius: 12px;">
-<img src="https://skillicons.dev/icons?i=django,nodejs,firebase&theme=light&perline=4" width="150" />
-<img height="40" width="40" style="margin: 0 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" />
-</div>
-<div style="background: #10b981; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
-Server & APIs
-</div>
-</div>
+### Machine Learning & AI
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="40"/>
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="margin: 0 5px"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" style="margin: 0 5px"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" height="40"/>
+
+### Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
 
 </td>
-</tr>
-
-<tr>
-<td align="center" width="33.33%" valign="top">
-
-<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
-<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Data & Analytics</h3>
-<div align="center" style="margin: 15px 0; background: white; padding: 15px; border-radius: 12px;">
-<img src="https://skillicons.dev/icons?i=python" width="40" />
-<img height="40" width="40" style="margin: 0 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img height="40" width="40" style="margin: 0 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img height="40" width="40" style="margin: 0 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<td valign="top" align="right" width="60%">
+<div align="right">
+<br>
+<img alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF1bGM4YzFzczF1NjJsNDhwaTVzcGV1dWU3NG8ydGZrcXU3a2hoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ScaKyqnCrQM4U/giphy.gif">
+<br><br>
+<img alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhlMGlsbHdyMHdqMHR2Nmx2NnppdzZvcGp4OGpxY3BncnIxNDVmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif">
+<br><br>
+<img alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl5enJ4a3czMnlyaWJlbHJ1bzBudmJlanZkam0yYWdwZHA3MmkwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 </div>
-<div style="background: #f59e0b; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
-Data Science
-</div>
-</div>
-
-</td>
-<td align="center" width="33.33%" valign="top">
-
-<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
-<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Machine Learning & AI</h3>
-<div align="center" style="margin: 15px 0; background: white; padding: 15px; border-radius: 12px;">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" width="90" />
-<img height="40" width="40" style="margin: 0 8px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img height="40" width="40" style="margin: 0 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-</div>
-<div style="background: #8b5cf6; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
-AI/ML Tools
-</div>
-</div>
-
-</td>
-<td align="center" width="33.33%" valign="top">
-
-<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease;">
-<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Databases</h3>
-<div align="center" style="margin: 15px 0;">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite&theme=light&perline=3" width="140" />
-</div>
-<div style="background: #3b82f6; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
-Data Storage
-</div>
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="3" align="center">
-
-<div style="background: linear-gradient(145deg, #ffffff, #f5f7fa); border: 1px solid #e1e8ed; border-radius: 15px; padding: 25px 15px; margin: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease; max-width: 400px; display: inline-block;">
-<h3 align="center" style="margin: 0 0 15px 0; color: #2d3748;">Tools & Version Control</h3>
-<div align="center" style="margin: 15px 0;">
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light&perline=3" width="140" />
-</div>
-<div style="background: #6366f1; color: white; padding: 10px 20px; border-radius: 25px; display: inline-block; margin-top: 10px; font-weight: 600;">
-Development Tools
-</div>
-</div>
-
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
@@ -168,15 +103,17 @@ Development Tools
 ---
 
 ## 📊 GitHub Statistics
+
 <div align="center">
   <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arin0005&theme=tokyonight" alt="Profile Details" />
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&fontFamily=&preferLogin=false">    <img width="35%" alt="Arin0005's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Arin0005?cardType=github&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&fontFamily=&preferLogin=false">
+    <img width="35%" alt="Arin0005's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Arin0005?cardType=github&theme=tokyonight&fontFamily=&preferLogin=false" />
+  </a>
 </div>
 
 <div align="center">
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arin0005&theme=tokyonight" />
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arin0005&theme=tokyonight" />
- 
 </div>
 
 <div align="center">
@@ -207,8 +144,6 @@ Development Tools
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Arin0005&label=Profile%20Views&color=0e75b6&style=flat)
-  
-  *"Clean code, practical solutions, continuous learning."*
+*"Clean code, practical solutions, continuous learning."*
   
 </div>
